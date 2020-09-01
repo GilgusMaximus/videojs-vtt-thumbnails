@@ -1,6 +1,8 @@
-# videojs-vtt-thumbnails
+# videojs-vtt-thumbnails-freetube
 
 Video.js plugin that displays thumbnails on progress bar hover, driven by external VTT files.  Based on [this JW Player spec](https://support.jwplayer.com/customer/portal/articles/1407439-adding-preview-thumbnails). Note, this plugin currently only supports sprited thumbnails.
+
+Forked from https://github.com/chrisboustead/videojs-vtt-thumbnails.git in order to be maintained for the FreeTube project (https://github.com/FreeTubeApp/FreeTube-Vue).
 
 Note: Plugin hides the default skin's mouse display timestamp on hover.
 
@@ -93,8 +95,11 @@ Options are passed in the same object as the source location.
 - `showTimestamp` (Boolean, Default: false) - Disables the timestamp that is shown on hover.
 
 ## License
-
+Original:
 MIT. Copyright (c) Chris Boustead &lt;chris@forgemotion.com&gt;
+
+Fork:
+MIT. Copyright (c) GilgusMaximus &lt;software@lucahohmann.com&gt;
 
 
 [videojs]: http://videojs.com/

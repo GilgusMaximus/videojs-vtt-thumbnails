@@ -1,7 +1,7 @@
 {
   "name": "videojs-vtt-thumbnails-freetube",
-  "version": "0.0.14",
-  "description": "Display thumbnails on progress bar hover, driven by external VTT files. Forked from https://github.com/chrisboustead/videojs-vtt-thumbnails.git in order to be maintained for teh FreeTube project (https://github.com/FreeTubeApp/FreeTube-Vue).",
+  "version": "0.0.15",
+  "description": "Display thumbnails on progress bar hover, driven by external VTT files. Forked from https://github.com/chrisboustead/videojs-vtt-thumbnails.git in order to be maintained for the FreeTube project (https://github.com/FreeTubeApp/FreeTube-Vue).",
   "main": "dist/videojs-vtt-thumbnails.cjs.js",
   "module": "dist/videojs-vtt-thumbnails.es.js",
   "engines": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GilgusMaximus/videojs-vtt-thumbnails-freetube"
+    "url": "https://github.com/GilgusMaximus/videojs-vtt-thumbnails-freetube.git"
   },
   "generator-videojs-plugin": {
     "version": "5.0.3"
